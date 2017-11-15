@@ -1,0 +1,8 @@
+allow_duplicates: false
+
+dependencies: []
+
+galaxy_info:
+  author: {{cookiecutter.author}}
+  description: {{cookiecutter.description}}
+  min_ansible_version: {{cookiecutter.min_ansible_version}}
